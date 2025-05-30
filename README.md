@@ -39,7 +39,7 @@ output/
 ## 📦 Setup Instructions
 
 1. **Clone the repository**
-git clone https://github.com/rajmishra1089/moengage-doc-analyzer
+git clone https://github.com/rajmishra1089/moengage-doc-analyzer \n
 cd moengage-doc-analyzer
 
 2. **Install the dependencies**
