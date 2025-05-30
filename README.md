@@ -30,8 +30,8 @@ This repository contains an intelligent agent-based system that analyzes and opt
 
 For an article like `.../articles/123456-Using-Rich-Push`, the following files are generated in the `output/` folder:
 output/
-├── Using-Rich-Push__original.md
-├── Using-Rich-Push__suggestions.md
+├── Using-Rich-Push__original.md<br/>
+├── Using-Rich-Push__suggestions.md<br/>
 ├── Using-Rich-Push__revised.md
 
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 3. **Set up your Gemini API key**
 Create a .env file in the root directory with your Gemini API key:
-
+<br/>
 GEMINI_API_KEY=your_google_gemini_api_key
 
 
