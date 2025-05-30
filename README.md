@@ -46,14 +46,13 @@ cd moengage-doc-analyzer
 pip install -r requirements.txt
 
 3. **Set up your Gemini API key**
-Create a .env file in the root directory with your Gemini API key:
-<br/>
+Create a .env file in the root directory with your Gemini API key:<br/>
 GEMINI_API_KEY=your_google_gemini_api_key
 
 
-🚀 **Running the Script**
-**Start the program:**
-python main.py
+🚀 **Running the Script**<br/>
+**Start the program:**<br/>
+python main.py<br/>
 
 You'll be prompted to enter a MoEngage documentation article URL.<br/>
 The system will:<br/>
@@ -62,13 +61,13 @@ Apply the suggestions <br/>
 Save all outputs to the output/ folder
 
 
-📝 **Example Output**
+📝 **Example Output**<br/>
 Here's a preview of what's included in each generated file:<br/>
 __original.md: Cleaned Markdown from the MoEngage article<br/>
 __suggestions.md: Structured feedback on readability, structure, and clarity<br/>
 __revised.md: Fully revised article incorporating all suggestions<br/>
 
 
-👨‍💻 **Author**
+👨‍💻 **Author**<br/>
 Created by Raj Mishra as part of an LLM-based documentation analysis project.
 
