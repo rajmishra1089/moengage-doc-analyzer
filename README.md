@@ -28,8 +28,8 @@ This repository contains an intelligent agent-based system that analyzes and opt
 
 ## 📁 Output File Structure
 
-For an article like `.../articles/123456-Using-Rich-Push`, the following files are generated in the `output/` folder:
-output/
+For an article like `.../articles/123456-Using-Rich-Push`, the following files are generated in the `output/` folder:<br/>
+output/<br/>
 ├── Using-Rich-Push__original.md<br/>
 ├── Using-Rich-Push__suggestions.md<br/>
 ├── Using-Rich-Push__revised.md
