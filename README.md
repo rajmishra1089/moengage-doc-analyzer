@@ -55,18 +55,18 @@ GEMINI_API_KEY=your_google_gemini_api_key
 **Start the program:**
 python main.py
 
-You'll be prompted to enter a MoEngage documentation article URL.
-The system will:
-Fetch and analyze the article
-Apply the suggestions 
+You'll be prompted to enter a MoEngage documentation article URL.<br/>
+The system will:<br/>
+Fetch and analyze the article<br/>
+Apply the suggestions <br/>
 Save all outputs to the output/ folder
 
 
 📝 **Example Output**
-Here's a preview of what's included in each generated file:
-__original.md: Cleaned Markdown from the MoEngage article
-__suggestions.md: Structured feedback on readability, structure, and clarity
-__revised.md: Fully revised article incorporating all suggestions
+Here's a preview of what's included in each generated file:<br/>
+__original.md: Cleaned Markdown from the MoEngage article<br/>
+__suggestions.md: Structured feedback on readability, structure, and clarity<br/>
+__revised.md: Fully revised article incorporating all suggestions<br/>
 
 
 👨‍💻 **Author**
