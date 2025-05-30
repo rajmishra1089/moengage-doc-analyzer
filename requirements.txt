@@ -1,4 +1,4 @@
-beautifulsoup4==4.12.3
-html2text==2020.1.16
-python-dotenv==1.0.1
-google-generativeai==0.5.2
+beautifulsoup4
+html2text
+python-dotenv
+google-generativeai
