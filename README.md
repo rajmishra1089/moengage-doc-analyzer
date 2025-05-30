@@ -38,7 +38,7 @@ output/<br/>
 
 ## 📦 Setup Instructions
 
-1. **Clone the repository**
+1. **Clone the repository**<br/>
 git clone https://github.com/rajmishra1089/moengage-doc-analyzer <br/>
 cd moengage-doc-analyzer
 
